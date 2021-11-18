@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Sabinico 👋
+
+- 🐦 **[Twitter](http://twitter.com/Sabinico)** @Sabinico
+- 💼 **[LinkedIn](https://www.linkedin.com/in/sabinico/)** Carlos Núñez Romero
+- 📸 **[Instagram](https://www.instagram.com/sabinico95)** @Sabinico95
+- 🎮 **Discord** Sabinico#0001
+
+## My Projects
+<a href="https://sabinico.com/discord">
+  <img src="https://invidget.switchblade.xyz/aNXSmkB" align="center">
+</a>
 
 ## My Skills
 ![Sabinico's github stats](https://github-readme-stats.vercel.app/api?username=sabinico&theme=vue-dark&show_icons=true)
